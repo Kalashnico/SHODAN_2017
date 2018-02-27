@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd "$(dirname "${BASH_SOURCE[0]}")"
+
 FILENAME="7um3d3viner4sJam4is.php3"
 
 echo '[*] Uploading file'
